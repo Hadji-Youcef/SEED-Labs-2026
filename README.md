@@ -8,10 +8,10 @@ The goal of this repo is to document how these classic network and system vulner
 
 ## 📂 Structure
 
-* **[`/Firewall_Exploration`](./Firewall_Exploration/)**: LKM-based (`Netfilter`) packet filtering, kernel hooks, stateful packet inspection, and advanced traffic engineering (`iptables` dynamic load balancing).
-* **[`/TCP_IP_Attacks`](./TCP_IP_Attacks/)**: Analysis of protocol-layer design flaws, covering SYN flooding, TCP session hijacking, and the integration of reverse shell execution models.
-* **[`/Mitnick_Attack`](./Mitnick_Attack/)**: Deep-dive execution of the historical multi-stage 1994 attack vector combining blind connection spoofing, predictable TCP Initial Sequence Numbers (ISNs), and trusted connection manipulation.
-* **[`/BGP_Exploration`](./BGP_Exploration/)**: Analysis of Wide-Area Network routing infrastructure, simulating Autonomous System (AS) path manipulation, prefix hijacking, and mitigating via upstream provider filter configurations.
+* **[`/Firewall_Exploration`]**: LKM-based (`Netfilter`) packet filtering, kernel hooks, stateful packet inspection, and advanced traffic engineering (`iptables` dynamic load balancing).
+* **[`/TCP_IP_Attacks`]**: Analysis of protocol-layer design flaws, covering SYN flooding, TCP session hijacking, and the integration of reverse shell execution models.
+* **[`/Mitnick_Attack`]*: Deep-dive execution of the historical multi-stage 1994 attack vector combining blind connection spoofing, predictable TCP Initial Sequence Numbers (ISNs), and trusted connection manipulation.
+* **[`/BGP_Exploration`]**: Analysis of Wide-Area Network routing infrastructure, simulating Autonomous System (AS) path manipulation, prefix hijacking, and mitigating via upstream provider filter configurations.
 
 ---
 
